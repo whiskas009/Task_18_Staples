@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\bin\Debug\Task_18_Staples.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\bin\Debug\Task_18_Staples.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\bin\Debug\Task_18_Staples.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\obj\Debug\Task_18_Staples.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\obj\Debug\Task_18_Staples.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\obj\Debug\Task_18_Staples.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\obj\Debug\Task_18_Staples.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_18_Staples\Task_18_Staples\obj\Debug\Task_18_Staples.pdb
